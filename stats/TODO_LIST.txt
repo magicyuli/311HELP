@@ -1,0 +1,58 @@
+0. Total types of complaints: 248
+
+1. Total complaints: 10540651
+
+2.	How many column: 53
+
+3.	The distinct value of each column
+a)	According to different agency
+Select distinct(columname1),distinct (column2),… from ….
+
+4.	Hive to Split the file by day, month, year: done
+
+5.	Clean the data set()
+
+6.	Type and number of complain under
+%)  Each day: done
+a)	Each season: TODO hetal
+b)	Each Agent: done
+c)	Location(ZipCode): done
+d)	Weather: TODO
+
+
+
+
+7.	Number of complains under:
+a)	Each agency & day:
+
+
+
+8.	After split the data by month, year, day
+a)	What is the most popular problem for each district in each season/month
+
+
+
+9.	SAS/R data visualization
+
+
+10.	Excel to make the hot spot
+
+
+
+
+Use the data to predict
+1.	Split the data into training set and testing set
+2.	Predict complain type
+a)	Base on the weather data and time
+3.	Predict the location
+a)	Base on the time and weather
+4.	Classification(Multi-class)
+a)	One versus rest(SVM?)
+
+
+
+
+
+
+
+

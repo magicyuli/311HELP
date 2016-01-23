@@ -1,0 +1,249 @@
+HEATING,0.0842328429
+Street Light Condition,0.0568663169
+Street Condition,0.0560161796
+PLUMBING,0.0492484762
+GENERAL CONSTRUCTION,0.0475176533
+Blocked Driveway,0.0373333677
+HEAT/HOT WATER,0.0355514095
+Water System,0.0352069336
+PAINT - PLASTER,0.0342728357
+Illegal Parking,0.0273807567
+Traffic Signal Condition,0.0264684790
+NONCONST,0.0247508432
+Noise,0.0232286412
+Sewer,0.0216250400
+ELECTRIC,0.0197903336
+Dirty Conditions,0.0196426198
+General Construction/Plumbing,0.0170890773
+Damaged Tree,0.0168280878
+Noise - Commercial,0.0160291807
+Noise - Street/Sidewalk,0.0158720747
+Sanitation Condition,0.0153963925
+Building/Use,0.0152870065
+UNSANITARY CONDITION,0.0139218156
+Rodent,0.0134535334
+Broken Muni Meter,0.0131862823
+PAINT/PLASTER,0.0128809881
+DOF Literature Request,0.0123594833
+Missed Collection (All Materials),0.0107152775
+Taxi Complaint,0.0106581652
+Consumer Complaint,0.0100033670
+Graffiti,0.0091075969
+Overgrown Tree/Branches,0.0083396177
+Derelict Vehicle,0.0082654288
+Noise - Vehicle,0.0082623929
+Derelict Vehicles,0.0071788735
+DOOR/WINDOW,0.0066510124
+WATER LEAK,0.0062036017
+APPLIANCE,0.0058843614
+Dead Tree,0.0054282226
+Maintenance or Facility,0.0054238585
+Root/Sewer/Sidewalk Condition,0.0053043213
+GENERAL,0.0052209299
+Snow,0.0052189376
+Benefit Card Replacement,0.0051493973
+Elevator,0.0047254197
+FLOORING/STAIRS,0.0047041687
+Food Establishment,0.0041410156
+Air Quality,0.0040575293
+Sidewalk Condition,0.0037145713
+Street Sign - Damaged,0.0036027187
+Special Enforcement,0.0031702975
+Other Enforcement,0.0029428922
+Highway Condition,0.0026969871
+Construction,0.0026855078
+Indoor Air Quality,0.0026455671
+Lead,0.0023322089
+Plumbing,0.0022419868
+Street Sign - Missing,0.0021955001
+Vending,0.0021765259
+Water Conservation,0.0021647619
+Electrical,0.0020421889
+Animal Abuse,0.0019722691
+DCA / DOH New License Application Request,0.0019590820
+Traffic,0.0018831854
+Special Projects Inspection Team (SPIT),0.0018803393
+Fire Safety Director - F58,0.0018641164
+SCRIE,0.0018085221
+Noise - Park,0.0017434407
+SAFETY,0.0016698210
+For Hire Vehicle Complaint,0.0016591954
+Food Poisoning,0.0016456289
+Opinion for the Mayor,0.0016446802
+Litter Basket / Request,0.0015470581
+Noise Survey,0.0015466787
+Homeless Encampment,0.0015457300
+Broken Parking Meter,0.0014851075
+Hazardous Materials,0.0014566463
+Agency Issues,0.0013063709
+Unsanitary Animal Pvt Property,0.0012984966
+Vacant Lot,0.0012195641
+Illegal Tree Damage,0.0011553366
+Asbestos,0.0011540084
+HPD Literature Request,0.0011038218
+Boilers,0.0010114176
+Smoking,0.0010020254
+Violation of Park Rules,0.0009471901
+School Maintenance,0.0009407389
+Animal in a Park,0.0009373235
+Street Sign - Dangling,0.0009306826
+Industrial Waste,0.0009037392
+Homeless Person Assistance,0.0008875163
+DOT Literature Request,0.0008668345
+Standing Water,0.0007915071
+Overflowing Litter Baskets,0.0007498588
+Drinking,0.0007248129
+Non-Residential Heat,0.0007110567
+Investigations and Discipline (IAD),0.0006621033
+Water Quality,0.0006120115
+Noise - House of Worship,0.0006048962
+Noise - Helicopter,0.0005739683
+Recycling Enforcement,0.0005544250
+Sweeping/Missed-Inadequate,0.0005438943
+EAP Inspection - F59,0.0005200817
+Indoor Sewage,0.0004992102
+BEST/Site Safety,0.0004962692
+CONSTRUCTION,0.0004817539
+Public Payphone Complaint,0.0004590798
+Unleashed Dog,0.0004478850
+Derelict Bicycle,0.0004358365
+Taxi Compliment,0.0004087983
+Disorderly Youth,0.0003887805
+Curb Condition,0.0003697115
+Bridge Condition,0.0003693320
+Unsanitary Pigeon Condition,0.0003584219
+Taxi Report,0.0003570937
+DOF Property - Reduction Issue,0.0003277786
+DPR Internal,0.0003156352
+DOF Parking - Tax Exemption,0.0003061481
+OUTSIDE BUILDING,0.0002962815
+Ferry Inquiry,0.0002887867
+Sweeping/Missed,0.0002784458
+Emergency Response Team (ERT),0.0002700023
+Found Property,0.0002570050
+Bike/Roller/Skate Chronic,0.0002487512
+Window Guard,0.0002451461
+Urinating in Public,0.0002415411
+Request for Information,0.0002224720
+DCA Literature Request,0.0001993236
+Cranes and Derricks,0.0001899313
+Plant,0.0001877493
+City Vehicle Placard Complaint,0.0001868955
+Senior Center Complaint,0.0001792109
+Mold,0.0001781674
+OEM Disabled Vehicle,0.0001775981
+ELEVATOR,0.0001738982
+Posting Advertisement,0.0001610906
+Bus Stop Shelter Placement,0.0001439190
+Scaffold Safety,0.0001416421
+Illegal Animal Kept as Pet,0.0001387960
+Fire Alarm - Reinspection,0.0001365191
+Ferry Complaint,0.0001275064
+Illegal Fireworks,0.0001165013
+Panhandling,0.0001018912
+Beach/Pool/Sauna Complaint,0.0001001836
+Harboring Bees/Wasps,0.0000993297
+OEM Literature Request,0.0000941118
+Collection Truck Noise,0.0000917401
+Miscellaneous Categories,0.0000874709
+Sweeping/Inadequate,0.0000861427
+Complaint,0.0000800710
+DOF Property - Payment Issue,0.0000730505
+Fire Alarm - New System,0.0000691608
+Stalled Sites,0.0000668839
+Bike Rack Condition,0.0000649865
+Poison Ivy,0.0000646070
+Request Xmas Tree Collection,0.0000640378
+Drinking Water,0.0000563533
+Compliment,0.0000556892
+Safety,0.0000554994
+Tattooing,0.0000550251
+Vector,0.0000543610
+Fire Alarm - Modification,0.0000531276
+Unsanitary Animal Facility,0.0000522738
+DOE Complaint or Compliment,0.0000496174
+Municipal Parking Facility,0.0000461072
+DOF Property - Update Account,0.0000454431
+For Hire Vehicle Report,0.0000431662
+Animal Facility - No Permit,0.0000411739
+Teaching/Learning/Instruction,0.0000398457
+Special Natural Area District (SNAD),0.0000378534
+Highway Sign - Damaged,0.0000371894
+Discipline and Suspension,0.0000365253
+Parking Card,0.0000326356
+Forensic Engineering,0.0000315920
+Summer Camp,0.0000307381
+Misc. Comments,0.0000278920
+DPR Literature Request,0.0000269433
+Public Toilet,0.0000259946
+Illegal Animal Sold,0.0000241921
+Invitation,0.0000238126
+Adopt-A-Basket,0.0000237177
+DEP Literature Request,0.0000207767
+Ferry Permit,0.0000201126
+DOF Parking - Payment Issue,0.0000193536
+Highway Sign - Missing,0.0000186895
+Registration and Transfers,0.0000180255
+Health,0.0000155588
+Public Assembly,0.0000148947
+DHS Income Savings Requirement,0.0000146101
+Open Flame Permit,0.0000133768
+Legal Services Provider Complaint,0.0000130922
+Transportation Provider Complaint,0.0000106255
+DFTA Literature Request,0.0000101512
+Calorie Labeling,0.0000097717
+Fire Alarm - Addition,0.0000092973
+Literature Request,0.0000089179
+Overflowing Recycling Baskets,0.0000088230
+Bottled Water,0.0000085384
+Lifeguard,0.0000078743
+Highway Sign - Dangling,0.0000073051
+X-Ray Machine/Equipment,0.0000071153
+Fire Alarm - Replacement,0.0000062615
+Parent Leadership,0.0000060717
+Tunnel Condition,0.0000053128
+Radioactive Material,0.0000050282
+Sprinkler - Mechanical,0.0000038897
+Forms,0.0000035102
+Day Care,0.0000034153
+Squeegee,0.0000028461
+Hazmat Storage/Use,0.0000024666
+Standpipe - Mechanical,0.0000022769
+No Child Left Behind,0.0000021820
+Trans Fat,0.0000020872
+Rangehood,0.0000020872
+Building Condition,0.0000017077
+Public Assembly - Temporary,0.0000015179
+DOF Property - City Rebate,0.0000015179
+STRUCTURAL,0.0000015179
+Foam Ban Enforcement,0.0000015179
+Portable Toilet,0.0000012333
+Advocate-Personal Exemptions,0.0000012333
+DOF Property - RPIE Issue,0.0000012333
+Advocate-SCRIE/DRIE,0.0000009487
+Tanning,0.0000008538
+SRDE,0.0000007590
+Taxpayer Advocate Inquiry,0.0000006641
+Lost Property,0.0000006641
+Advocate - Other,0.0000005692
+VACANT APARTMENT,0.0000003795
+Interior Demo,0.0000003795
+AGENCY,0.0000002846
+SG-98,0.0000002846
+Comment,0.0000002846
+Advocate-Prop Refunds/Credits,0.0000001897
+Unspecified,0.0000001897
+Gas Station Discharge Lines,0.0000001897
+Unlicensed Dog,0.0000000949
+Trapping Pigeon,0.0000000949
+SNW,0.0000000949
+SG-99,0.0000000949
+Advocate-Commercial Exemptions,0.0000000949
+Advocate-Prop Class Incorrect,0.0000000949
+DOF Parking - Request Status,0.0000000949
+Home Care Provider Complaint,0.0000000949
+Laboratory,0.0000000949
+Advocate - RPIE,0.0000000949
+Micro Switch,0.0000000949
+Research Questions,0.0000000949
+total,1.0000000000
